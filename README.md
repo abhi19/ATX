@@ -1,5 +1,5 @@
 # ATX
-Automation for CTF challneges
+Automation for Pentesting.
 Script Usage :
 python atx.py
 Then enter the target IP.
